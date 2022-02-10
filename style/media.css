@@ -1247,7 +1247,7 @@
   }
 
   .header__top-inner .nav__list.active {
-    z-index: 999;
+    z-index: 9999;
     opacity: 1;
     border-left: 2px solid #19BCE4;
     position: fixed;
